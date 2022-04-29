@@ -55,7 +55,7 @@ public class App {
                 finish = true;
             }
         }
-        central.colaComedor.imprimirCola();
+        //central.colaComedor.imprimirCola();
 
     }
     public static void crearTurno(Usuario user, Comedor comedor) {
